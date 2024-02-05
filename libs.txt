@@ -1,0 +1,7 @@
+Stochastic approximation for background modelling
+--------------------------------------------------
+
+The contents of this zip file are provided without any warranty. They are intended for evaluational purposes only.
+
+The .a files are some precompiled static libraries which are needed to build the C MEX files under 32-bit Windows. They have been built with the gcc compiler under the Cygwin environment.
+The .lib files are precompiled static libraries needed to build the C MEX files under 64-bit Windows.
